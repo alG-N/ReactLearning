@@ -48,4 +48,5 @@ function App() {
         </>
     )
 }
+// dung de goi cac function(hay component)
 export default App;
